@@ -42,3 +42,4 @@ unidecode
 wget
 yt-dlp[default]>=2026.03.17
 git+https://github.com/CertifiedCoders/youtube-search-python
+bgutil-ytdlp-pot-provider>=1.3.0
